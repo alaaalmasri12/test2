@@ -1,5 +1,5 @@
 'use strict';
-// require('@code-fellows/supergoose');
+require('@code-fellows/supergoose');
 
 const Note = require('../lib/models/notes-collection');
 const note = new Note();
