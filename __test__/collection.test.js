@@ -1,8 +1,8 @@
 'use strict';
-require('@code-fellows/supergoose');
+// require('@code-fellows/supergoose');
 
-const Note = require('../lib/models/notes-collection');
-const note = new Note();
+// const Note = require('../lib/models/notes-collection');
+// const note = new Note();
 describe('note Model', ()=> {
 //   it('can create() a new note item ', ()=> {
 //     let obj = {text: 'i am number one', catagory: 'motvaational'};
